@@ -1,6 +1,6 @@
 # Multiplexer4to1
 # aim
-To simulate and synthesis half adder using vivado 2023.2
+To simulate and synthesis multiplexer using vivado 2023.2
 
 # apparatus
 vivado 2023
