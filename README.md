@@ -42,7 +42,8 @@ end
 endmodule
 
 # output
-![Screenshot 2024-02-23 233501](https://github.com/lathika024/Multiplexer4to1/assets/165888553/4c76df34-d463-409f-ab4c-d2296672162a)
+![WhatsApp Image 2024-04-05 at 13 27 33_db45180f](https://github.com/lathika024/Multiplexer4to1/assets/165888553/46cf63be-56a2-417a-b32f-a93dba371bd3)
+
 
 
 # result
